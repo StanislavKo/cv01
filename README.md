@@ -1,5 +1,5 @@
 # cv01
 
-Network2 is faster than Network.
+Network2 is faster than Network1.
 
-Network needs less memory than Network2.
+Network1 needs less memory than Network2.
